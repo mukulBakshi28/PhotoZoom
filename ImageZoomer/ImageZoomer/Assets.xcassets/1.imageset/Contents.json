@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "seasonal-sky-wind-winds-dark-wallpaper-mac-fresh-mb05-wallpaper-dream-castle-dream-laptop-backgrounds-of-seasonal-sky-wind-winds-dark-wallpaper-mac.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
